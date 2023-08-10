@@ -14,7 +14,11 @@ public class StringDemo {
 		System.out.println(name==name2);          //share same memory
 		System.out.println(name==name3);
 		System.out.println(name3==name4);
+		
+		
 
+		
+		
 	}
 
 }
